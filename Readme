@@ -1,0 +1,7 @@
+1. Compile and execute "first.c".
+2. Open terminal and compile "server.c".
+3. Open another terminal and compile "client.c".
+4. Execute "./server".
+5. Execute "./client".
+6. Type in username - "admin" and password as "123".
+and you are good to go.
